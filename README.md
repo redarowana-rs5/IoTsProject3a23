@@ -6,3 +6,5 @@ To run the code, upload the cert using LittleFSUploader in arudino then run the 
 *In the USsensor folder, it is the code for our Ultrasonic sensor.<br>
 # Project Description
 Secured End to End IoT for Car Parking System
+# Link to Google Sites
+https://sites.google.com/view/iots-3a23-miniproject/home
